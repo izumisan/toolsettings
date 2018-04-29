@@ -1,0 +1,4 @@
+# ToolSettings
+
+- Git
+- VSCode
