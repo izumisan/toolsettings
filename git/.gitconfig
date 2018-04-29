@@ -1,0 +1,14 @@
+[user]
+	name = izumisan
+	email = izumi.mite@gmail.com
+[core]
+	autocrlf = false
+	safecrlf = true
+	quotepath = false
+	editor = 'C:/Program Files (x86)/sakura/sakura.exe' -CODE=4
+[merge]
+	ff = false
+[pull]
+	ff = only
+[push]
+	default = simple
