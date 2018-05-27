@@ -24,5 +24,9 @@
         "suppressResultsExplorerNotice": true,
         "suppressShowKeyBindingsNotice": true
     },
-    "gitlens.hovers.currentLine.enabled": false
+    "gitlens.defaultDateStyle": "absolute",
+    "gitlens.defaultDateFormat": "YYYY-MM-DD HH:mm:ss",
+    "gitlens.currentLine.format": "${date} • ${message}",
+    "gitlens.hovers.currentLine.enabled": false,
+    "gitlens.hovers.annotations.over": "annotation"
 }
