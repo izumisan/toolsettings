@@ -23,5 +23,6 @@
     "gitlens.advanced.messages": {
         "suppressResultsExplorerNotice": true,
         "suppressShowKeyBindingsNotice": true
-    }
+    },
+    "gitlens.hovers.currentLine.enabled": false
 }
