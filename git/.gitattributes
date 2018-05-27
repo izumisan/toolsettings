@@ -1,0 +1,17 @@
+*			text=auto
+
+*.bat		text encoding=cp932 eol=crlf
+
+*.pdf		-text
+*.png		-text
+*.jpg		-text
+*.jpeg		-text
+*.gif		-text
+*.svg		-text
+
+*.exe		binary
+*.dll		binary
+*.lib		binary
+*.obj		binary
+*.zip		binary
+*.7z		binary

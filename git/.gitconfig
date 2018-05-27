@@ -6,6 +6,7 @@
 	safecrlf = true
 	quotepath = false
 	editor = 'C:/Program Files (x86)/sakura/sakura.exe' -CODE=4
+	attributesfile = ~/.gitattributes
 [merge]
 	ff = false
 [pull]
