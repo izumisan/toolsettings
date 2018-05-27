@@ -1,0 +1,4 @@
+.gitattributes  eol=lf
+.gitconfig      eol=lf
+
+settings.json   eol=lf
