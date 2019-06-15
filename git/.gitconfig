@@ -2,7 +2,7 @@
 	name = izumisan
 	email = izumi.mite@gmail.com
 [core]
-	autocrlf = false
+	autocrlf = input
 	safecrlf = true
 	quotepath = false
 	editor = 'C:/Program Files (x86)/sakura/sakura.exe' -CODE=4
@@ -13,3 +13,5 @@
 	ff = only
 [push]
 	default = simple
+[fetch]
+	prune = true
