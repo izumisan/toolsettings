@@ -14,7 +14,6 @@
     "files.hotExit": "off",
     "explorer.openEditors.visible": 0,
     "extensions.ignoreRecommendations": true,
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.copyOnSelection": true,
@@ -32,5 +31,9 @@
     "gitlens.hovers.currentLine.enabled": false,
     "gitlens.hovers.annotations.over": "annotation",
     "search.smartCase": true,
-    "workbench.tree.horizontalScrolling": true
+    "workbench.enableExperiments": false,
+    "breadcrumbs.enabled": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "quicktype.justTypes": false,
+    "plantuml.exportOutDir": ""
 }
